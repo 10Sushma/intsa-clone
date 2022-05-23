@@ -16,7 +16,7 @@ const {cardDetails}=props
           </div>
         </div>
         <div className='card-middle'>
-          <img  className='img1'src={cardDetails.PostImage} alt='img' />
+          <img  className='img1'src={'https://instaclone-10x.herokuapp.com/image/'+cardDetails.PostImage} alt='img' />
         </div>
         <div className='card-bottom'>
           <div className='card-b-top'>  
