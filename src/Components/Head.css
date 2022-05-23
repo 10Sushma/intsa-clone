@@ -1,0 +1,31 @@
+.head1{
+   width: 70%; 
+   border-top-style:  solid ;
+   border-bottom-style: solid;
+   border-bottom-color: rgb(250, 240, 247);
+   border-top-color: rgb(255, 239, 250);
+   display:flex;
+   margin-left: 15%;
+   justify-content: center;
+   margin-top: 2%;
+   height: 9vh;
+  }
+  .instaicon{
+    width: 35px;
+    height: 35px;
+   margin-top: 1%;
+    
+  }
+  .camicon{
+    width: 60px;
+    height: 60px;
+   margin-left: 50%;
+   margin-top: 0%;
+  }
+  h1{
+      color: rgb(255, 43, 184);
+      font-weight: 200;
+       margin-left: 0.5%;
+       margin-top: .5%;
+      font-family:Georgia, Times, 'Times New Roman', serif;
+  }

@@ -1,0 +1,87 @@
+.site-container{
+  text-align: center;
+ 
+}
+html {
+  font-size: 14px;
+}
+body {
+  line-height: 1.5;
+  color: black; 
+  
+} 
+
+.card{
+  border: 1px solid rgb(247, 193, 211);
+  width: 30%;
+  height: auto;
+  display: grid;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  background-color: rgb(250, 241, 241);
+}
+
+.img1{
+  width: 100%;
+  height:100%;
+}
+
+.top{
+  display: flex;
+  height: 10vh;
+} 
+.left1{
+  width: 15%;
+  height: auto;
+  line-height: 4%;
+ 
+}
+.right1{
+  width: 80%;
+  height: 10vh;
+}
+.top1{
+  float: left;
+  margin-left: 20%;
+
+
+}
+.dots{
+  float: right;
+  /* margin-right: 1%; */
+  
+  font-size: 300%;
+  margin-top: -5%;
+}
+
+.card-b-top{
+  display: flex;
+  height: 10vh;
+}
+.icons{
+  width: 25px;
+  height: 25px;
+  /* margin-right: 18%; */
+  padding:5% ;
+}
+.left2{
+  float: left;
+  width: 20%;
+  line-height: 20%;
+}
+.right2{
+  float: right;
+  /* width: 70%; */
+  margin-left: 55%;
+  margin-top: -3%;
+}
+.card-discription{
+  float: left;
+  margin-left: 5%;
+  height: 7vh;
+  line-height: 10%;
+}
+.like{
+  margin-left: 3%;
+}

@@ -1,0 +1,28 @@
+.home{
+    margin-top: 5%;
+    display: flex;
+    justify-content: center;
+   
+    box-shadow: 20px;
+    
+} 
+.btn{
+    margin-left:5%;
+    margin-top: 10%;
+    width: 20%;
+}
+.btn1{
+    background-color:rgb(71, 104, 5);
+    width: 40%;
+    border-radius: 10px;
+    height: 8%;
+}   
+.h12{
+    color: rgb(90, 133, 5);
+}
+.link{
+    color: white;
+    font-size: 15px;
+    text-decoration: none;
+}
+ 

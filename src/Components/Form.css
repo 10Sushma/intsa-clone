@@ -1,0 +1,58 @@
+.div1{
+    width: 100%;
+    margin-top: 60px;
+    
+}
+
+.main{
+    padding:1%;
+    width: 500px;
+    margin: 20px auto;
+    height:200px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+   padding-top: 2%;
+   background-color: rgb(92, 15, 66);
+   border-radius: 5px;  
+}
+#file{
+    border: 1px solid rgb(43, 42, 42);
+    width: 96%;
+    height: 10%;
+    margin-bottom: 4%;
+    padding: 2%;
+    background-color: aliceblue;
+    font-size: medium;
+    
+}
+#location{
+    margin-left: 11.5%;
+    margin-bottom: 4%;
+    width: 226px;
+    background-color: aliceblue;
+    height: 15%;
+    font-size: medium;
+}
+#author{
+    width: 205px;
+    background-color: aliceblue;
+    height: 15%;
+    font-size: medium;
+}
+#btn1{
+    margin-top: 1%;
+    margin-left: 40%;
+    margin-bottom: 20%;
+    width: 25%;
+    background-color: rgb(231, 231, 250);
+    background-color: aliceblue;
+    height: 15%;
+    font-size: medium;
+}
+#description{
+    width: 500px;
+    background-color: aliceblue;
+    height: 15%;
+    font-size: medium;
+}
